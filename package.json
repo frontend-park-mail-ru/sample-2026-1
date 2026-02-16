@@ -10,6 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "is-thirteen": "2.*.*"
+    "is-thirteen": "2.*.*",
+    "body-parser": "^2.2.0",
+    "cookie-parser": "^1.4.7",
+    "crypto": "^1.0.1",
+    "express": "5.1.0",
+    "morgan": "^1.10.1",
+    "uuid": "^13.0.0"
   }
 }
